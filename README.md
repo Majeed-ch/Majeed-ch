@@ -14,7 +14,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=majeed-ch.majeed-ch&left_color=darkslategrey&right_color=black&left_text=Visitors_since_July_2023"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=majeed-ch.majeed-ch&left_color=darkslategrey&right_color=black&left_text=Visitors"  />
 </div>
 
 ###
@@ -76,7 +76,7 @@
 
 <div align="left">
   <a href="https://open.spotify.com/user/31hgeettbbwbuhm5dwca2wmvpgr4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hgeettbbwbuhm5dwca2wmvpgr4&count=5&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hgeettbbwbuhm5dwca2wmvpgr4&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
