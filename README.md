@@ -8,7 +8,9 @@
   <a href="https://www.linkedin.com/in/abdulmazedch/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="41" height="29" alt="linkedin logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="41" height="29" alt="gmail logo"  />
+  <a href="mailto:amazed300@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="41" height="29" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
