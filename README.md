@@ -4,21 +4,26 @@
 
 ###
 
-<div align="center">
+<div align="center" style="letter-spacing:15px">
   <a href="https://www.linkedin.com/in/abdulmazedch/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="41" height="29" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo"  />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:amazed300@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="41" height="29" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="gmail logo"  />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://majeed-ch.netlify.app/" target="_blank">
+    <img width="40" height="40" src="https://img.icons8.com/ultraviolet/40/geography.png" alt="geography"/>
   </a>
 </div>
 
+<!--
 ###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=majeed-ch.majeed-ch&left_color=darkslategrey&right_color=black&left_text=Visitors"  />
 </div>
-
+-->
 ###
 
 <h2 align="center">Hey there, I'm Abdul Mazed Chowdhury 👋</h2>
@@ -29,7 +34,14 @@
 
 ###
 
-<p align="left">I'm a new Software Developer from Canada<br><br>- 🔭 I’m currently looking to start my carrer<br>- 📚 I'm currently learning Python, C# with .NET, and JSF/JPA/Hibernate<br>- ⚡ In my free time I like to watch my favorite tv shows and new movies, but when I'm productive I like to dig deeper into my learnings and try to implement them.</p>
+<p align="left">I'm a junior Software Developer based in Canada, on a mission to bring my coding skills to life and make a mark in the world of software development.</p><br/>
+
+<p>🔭  Currently, I'm on the lookout for exciting career opportunities where I can unleash my creativity and contribute to innovative projects. I thrive on challenges and love turning ideas into tangible solutions.</p>
+<p>📚 Right now, I'm diving deep into Python, C# with .NET, and JSF/JPA/Hibernate. Learning these technologies is like opening doors to a world of possibilities, and I can't wait to put my new skills into practice and build something amazing.</p>
+<p>⚡ When I'm not immersed in code, you can find me catching up on my favorite TV shows or getting lost in the latest blockbuster movies. But don't be fooled by my downtime - when inspiration strikes, I'm all about exploring new ideas, trying out different approaches, and honing my skills to become a better developer.</p>
+<br/>
+
+<p>✨ If you're as passionate about coding as I am, let's connect! I'm always up for collaborating on exciting projects or just geeking out over the latest tech trends. You can find me on GitHub and LinkedIn, ready to embark on this coding adventure together.</p>
 
 ###
 
