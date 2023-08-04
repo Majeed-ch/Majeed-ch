@@ -84,14 +84,4 @@
 
 ###
 
-<h3 align="left">🎵 My Jam</h3>
 
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/31hgeettbbwbuhm5dwca2wmvpgr4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31hgeettbbwbuhm5dwca2wmvpgr4&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
