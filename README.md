@@ -74,12 +74,10 @@
 <h3 align="left">🔥   My Stats</h3>
 
 ###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=majeed-ch&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="215" alt="streak graph"  />
-</div>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=majeed-ch&locale=en&hide_title=false&layout=compact&card_width=360&langs_count=6&theme=dracula&hide_border=true&order=2&custom_title=Most_Used_Languages_(public)"  alt="languages graph"  />
+<div float="left">
+  <img src="https://streak-stats.demolab.com?user=majeed-ch&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph" style="background-color: rgba(0, 0, 0, 0);" />
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=majeed-ch&locale=en&hide_title=false&layout=compact&card_width=360&langs_count=6&theme=dracula&hide_border=true&order=2&custom_title=Most_Used_Languages_(public)" height="200" alt="languages graph" style="background-color: rgba(0, 0, 0, 0);" />
 </div>
 
 ###
