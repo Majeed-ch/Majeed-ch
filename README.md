@@ -34,10 +34,10 @@
 
 ###
 
-<p align="left">I'm a junior Software Developer based in Canada, on a mission to bring my coding skills to life and make a mark in the world of software development.</p><br/>
+<p align="left">I'm a Software Developer based in Canada, on a mission to bring my coding skills to life and make a mark in the world of software development.</p><br/>
 
 <p>🔭  Currently, I'm on the lookout for exciting career opportunities where I can unleash my creativity and contribute to innovative projects. I thrive on challenges and love turning ideas into tangible solutions.</p>
-<p>📚 Right now, I'm diving deep into Python, C# with .NET, and JSF/JPA/Hibernate. Learning these technologies is like opening doors to a world of possibilities, and I can't wait to put my new skills into practice and build something amazing.</p>
+<p>📚 Right now, I'm diving deep into Python, C# with .NET, and Azure Cloud. Learning these technologies is like opening doors to a world of possibilities, and I can't wait to put my new skills into practice and build something amazing.</p>
 <p>⚡ When I'm not immersed in code, you can find me catching up on my favorite TV shows or getting lost in the latest blockbuster movies. But don't be fooled by my downtime - when inspiration strikes, I'm all about exploring new ideas, trying out different approaches, and honing my skills to become a better developer.</p>
 <br/>
 
@@ -50,13 +50,11 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="35" alt="csharp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="35" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="35" alt="oracle logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
   <img width="12" />
@@ -64,22 +62,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35" alt="sqlite logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" height="35" alt="azure devops logo"  />
+  <img width="12" />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats</h3>
-
-###
-<div float="left">
-  <img src="https://streak-stats.demolab.com?user=majeed-ch&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="155" alt="streak graph" style="background-color: rgba(0, 0, 0, 0);" />
-  &nbsp; &nbsp; &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=majeed-ch&locale=en&hide_title=false&layout=compact&card_width=360&langs_count=6&theme=dracula&hide_border=true&order=2&custom_title=Most_Used_Languages_(public)" height="155" alt="languages graph" style="background-color: rgba(0, 0, 0, 0);" />
-</div>
-
-###
-
 
